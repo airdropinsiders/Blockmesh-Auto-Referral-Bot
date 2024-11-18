@@ -34,6 +34,3 @@ python3 main.py
 - Insert your full referral URL, example: ``https://app.blockmesh.xyz/register?invite_code=XXXXXXXXXX``
 - Enter how many referrals you want
 - Result account generated will be saved to ``accounts.txt``
-# Notes
-- Run this bot, and it will update your referrer code to my invite code if you don't have one.
-- You can just run this bot at your own risk, I'm not responsible for any loss or damage caused by this bot. This bot is for educational purposes only.
